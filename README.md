@@ -1,6 +1,6 @@
 # Jenkins Docker image forked by Buu Lam
 
-python pip was added as well as "requests" module
+** python pip was added as well as "requests" module
 
 The Jenkins Continuous Integration and Delivery server.
 
